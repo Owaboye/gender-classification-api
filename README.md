@@ -166,13 +166,9 @@ curl "http://localhost:4000/api/classify?name=john"
 
 ##  Deployment
 
-This API can be deployed on:
+This API was deployed on:
 
 * Vercel
-* Railway
-* Heroku
-* AWS
-
 ---
 
 ## Performance
@@ -203,9 +199,9 @@ This API can be deployed on:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Your Name
+Your Ezekiel Oluwasanjo Owaboye
 
 ---
 
