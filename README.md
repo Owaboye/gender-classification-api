@@ -9,7 +9,7 @@ A simple REST API that classifies a given name by gender using the Genderize API
 Base URL:
 
 ```
-https://your-app-url.com
+https://gender-classification-api-red.vercel.app/api/classify?name=john
 ```
 
 ---
