@@ -137,7 +137,7 @@ is_confident = (probability >= 0.7) AND (sample_size >= 100)
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/gender-api.git
+git clone https://github.com/Owaboye/gender-classification-api.git
 cd gender-api
 npm install
 ```
