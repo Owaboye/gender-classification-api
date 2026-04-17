@@ -202,7 +202,9 @@ This API was deployed on:
 ## Author
 
 Your Ezekiel Oluwasanjo Owaboye
-
+$$ Contact:
+Email: [owaboyeooluwasanjo@yahoo.com]
+LinkedIn: [www.linkedin.com/in/oluwasanjo-ezekiel-4b47a053]
 ---
 
 ## 📄 License
