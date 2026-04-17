@@ -156,7 +156,7 @@ http://localhost:3000
 
 ---
 
-## est Example
+## Test Example
 
 ```bash
 curl "http://localhost:4000/api/classify?name=john"
